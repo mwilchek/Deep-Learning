@@ -1,0 +1,930 @@
+Picture_Path,Labels,red_blood_cell,difficult,gametocyte,trophozoite,ring,schizont,leukocyte
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_0.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_10.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_100.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1000.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1003.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1004.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1005.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1006.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1007.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1008.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1009.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1010.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1011.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1013.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1015.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1016.png,"['trophozoite\n', 'red blood cell']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1017.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1019.png,"['red blood cell\n', 'ring\n', 'gametocyte']",1,0,1,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1021.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1022.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1023.png,"['red blood cell\n', 'difficult\n', 'trophozoite\n', 'ring']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1024.png,"['ring\n', 'red blood cell']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1025.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1026.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1027.png,"['red blood cell\n', 'difficult\n', 'trophozoite\n', 'ring']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1029.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1031.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1032.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1034.png,"['red blood cell\n', 'ring\n', 'difficult\n', 'trophozoite']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1035.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1036.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1037.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1039.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_104.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1041.png,"['red blood cell\n', 'leukocyte']",1,0,0,0,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1044.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1045.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1046.png,"['ring\n', 'red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1048.png,"['red blood cell\n', 'difficult\n', 'gametocyte']",1,1,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1049.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_105.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1050.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1051.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1054.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1055.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1056.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1057.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1058.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1060.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1062.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1063.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1064.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1067.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1068.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1070.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1071.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1072.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1073.png,"['red blood cell\n', 'ring\n', 'difficult\n', 'trophozoite']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1074.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1076.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1077.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1078.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1079.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_108.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1080.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1081.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1082.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1083.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1084.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1087.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1088.png,"['red blood cell\n', 'trophozoite\n', 'ring\n', 'difficult']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1089.png,"['red blood cell\n', 'gametocyte\n', 'ring\n', 'trophozoite']",1,0,1,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_109.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1091.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1092.png,"['red blood cell\n', 'ring\n', 'leukocyte\n', 'trophozoite']",1,0,0,1,1,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1093.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1096.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1098.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1099.png,"['red blood cell\n', 'gametocyte\n', 'difficult']",1,1,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1100.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1102.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1103.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1104.png,"['difficult\n', 'red blood cell\n', 'schizont']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1105.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1107.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1108.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1109.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_111.png,"['red blood cell\n', 'schizont\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1110.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1111.png,"['difficult\n', 'red blood cell']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1112.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1113.png,"['red blood cell\n', 'difficult\n', 'schizont']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1116.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1117.png,"['red blood cell\n', 'schizont\n', 'trophozoite']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1118.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_112.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1120.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1122.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1125.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1126.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1127.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1129.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_113.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1130.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1137.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte\n', 'ring']",1,0,1,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1138.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_114.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1142.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1143.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1146.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1148.png,"['red blood cell\n', 'trophozoite\n', 'schizont']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1150.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1151.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1152.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1153.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1154.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1155.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1156.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1157.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1158.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1159.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_116.png,"['schizont\n', 'red blood cell']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1162.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1164.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1165.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1166.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1167.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1169.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_117.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1171.png,"['red blood cell\n', 'leukocyte\n', 'difficult\n', 'ring\n', 'trophozoite']",1,1,0,1,1,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1172.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1173.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1174.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1175.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1179.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_118.png,"['red blood cell\n', 'leukocyte']",1,0,0,0,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1180.png,"['red blood cell\n', 'difficult\n', 'gametocyte']",1,1,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1181.png,"['red blood cell\n', 'leukocyte\n', 'ring']",1,0,0,0,1,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1182.png,"['red blood cell\n', 'difficult\n', 'trophozoite\n', 'schizont\n', 'gametocyte']",1,1,1,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1183.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1186.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1187.png,"['red blood cell\n', 'difficult\n', 'ring\n', 'trophozoite']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1188.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1189.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1190.png,"['red blood cell\n', 'difficult\n', 'trophozoite\n', 'ring']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1192.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1193.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1195.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1196.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1197.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_12.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_120.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1200.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1201.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1202.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1203.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1204.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1206.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1210.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1212.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1214.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1215.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1216.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1218.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1219.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1220.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1221.png,"['red blood cell\n', 'difficult\n', 'schizont']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1222.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1223.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1225.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1226.png,"['red blood cell\n', 'schizont\n', 'difficult']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1227.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1228.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1230.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1231.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1232.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1236.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1237.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1238.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1239.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_124.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1240.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1241.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1242.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1245.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1246.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1247.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1248.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_125.png,"['red blood cell\n', 'gametocyte\n', 'trophozoite']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1250.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1251.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1252.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1253.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1254.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1255.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1256.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_126.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1260.png,"['red blood cell\n', 'leukocyte\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1262.png,"['red blood cell\n', 'schizont\n', 'difficult']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1264.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1265.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1266.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1267.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1268.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_127.png,"['red blood cell\n', 'trophozoite\n', 'schizont']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1270.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1271.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1272.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1273.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1274.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1275.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1277.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1278.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1279.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_128.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1281.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1282.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1283.png,"['red blood cell\n', 'leukocyte']",1,0,0,0,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1284.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1285.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1286.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1288.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_129.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1291.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1292.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1293.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1294.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1295.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1297.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1298.png,"['red blood cell\n', 'schizont\n', 'difficult']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1299.png,"['red blood cell\n', 'difficult\n', 'trophozoite\n', 'gametocyte']",1,1,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1301.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1302.png,"['red blood cell\n', 'trophozoite\n', 'ring\n', 'difficult\n', 'gametocyte']",1,1,1,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1303.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1305.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1307.png,"['red blood cell\n', 'schizont\n', 'gametocyte']",1,0,1,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1308.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1309.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_131.png,"['red blood cell\n', 'gametocyte\n', 'trophozoite']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1310.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1312.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1313.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1314.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1316.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1317.png,"['red blood cell\n', 'schizont\n', 'trophozoite']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1318.png,"['red blood cell\n', 'trophozoite\n', 'ring\n', 'gametocyte\n', 'difficult']",1,1,1,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_132.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1320.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1321.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1323.png,"['red blood cell\n', 'trophozoite\n', 'schizont']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1324.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1326.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_1327.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_134.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_135.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_136.png,"['red blood cell\n', 'difficult\n', 'leukocyte']",1,1,0,0,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_138.png,"['red blood cell\n', 'schizont\n', 'difficult']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_139.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_141.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_142.png,"['red blood cell\n', 'gametocyte\n', 'trophozoite']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_143.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_145.png,"['ring\n', 'red blood cell']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_148.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_149.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_15.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_150.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_151.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_152.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_153.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_154.png,"['red blood cell\n', 'schizont\n', 'gametocyte\n', 'trophozoite\n', 'difficult']",1,1,1,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_155.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_156.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_157.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_158.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_16.png,"['red blood cell\n', 'difficult\n', 'ring']",1,1,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_162.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_163.png,"['red blood cell\n', 'ring\n', 'trophozoite\n', 'difficult']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_165.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte\n', 'ring']",1,0,1,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_166.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_167.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_168.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_169.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_17.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_170.png,"['red blood cell\n', 'schizont\n', 'trophozoite']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_172.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_174.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_175.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_176.png,"['red blood cell\n', 'ring\n', 'difficult\n', 'trophozoite']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_178.png,"['trophozoite\n', 'red blood cell']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_179.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_18.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_180.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_181.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_183.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_184.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_185.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_186.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_188.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_189.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_191.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_192.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_193.png,"['red blood cell\n', 'schizont\n', 'difficult']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_195.png,"['schizont\n', 'difficult\n', 'red blood cell']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_197.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_198.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_199.png,"['red blood cell\n', 'difficult\n', 'trophozoite\n', 'ring\n', 'gametocyte']",1,1,1,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_2.png,"['red blood cell\n', 'gametocyte\n', 'schizont\n', 'trophozoite\n', 'difficult']",1,1,1,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_20.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_200.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_201.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_202.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_203.png,"['ring\n', 'red blood cell']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_204.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_205.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_206.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_207.png,"['red blood cell\n', 'difficult\n', 'trophozoite\n', 'schizont']",1,1,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_209.png,"['red blood cell\n', 'trophozoite\n', 'ring\n', 'difficult']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_210.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_211.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_212.png,"['red blood cell\n', 'gametocyte\n', 'schizont\n', 'difficult']",1,1,1,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_213.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_214.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_215.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite\n', 'gametocyte']",1,0,1,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_218.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_22.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_220.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_221.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_222.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_223.png,"['red blood cell\n', 'ring\n', 'trophozoite\n', 'schizont']",1,0,0,1,1,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_224.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_227.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_228.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_229.png,"['red blood cell\n', 'trophozoite\n', 'schizont']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_23.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_230.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_231.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_233.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_235.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_238.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_24.png,"['red blood cell\n', 'schizont\n', 'trophozoite']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_240.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_241.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_242.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_243.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_244.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_245.png,"['red blood cell\n', 'gametocyte\n', 'ring']",1,0,1,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_246.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_249.png,"['red blood cell\n', 'ring\n', 'trophozoite\n', 'schizont']",1,0,0,1,1,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_25.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_250.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_252.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_253.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_257.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_258.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_26.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_261.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_262.png,"['red blood cell\n', 'gametocyte\n', 'schizont\n', 'trophozoite']",1,0,1,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_264.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_265.png,"['red blood cell\n', 'gametocyte\n', 'trophozoite\n', 'ring\n', 'difficult']",1,1,1,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_270.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_271.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_272.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_273.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_274.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_275.png,"['red blood cell\n', 'trophozoite\n', 'schizont']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_277.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_278.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_279.png,"['red blood cell\n', 'trophozoite\n', 'schizont']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_28.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_280.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_281.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_284.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_287.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_289.png,"['red blood cell\n', 'trophozoite\n', 'ring\n', 'difficult']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_29.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_294.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_297.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_298.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_299.png,"['red blood cell\n', 'schizont\n', 'trophozoite']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_30.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_303.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_304.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_306.png,"['red blood cell\n', 'trophozoite\n', 'difficult\n', 'leukocyte']",1,1,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_307.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_308.png,"['red blood cell\n', 'difficult\n', 'ring']",1,1,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_310.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_311.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_314.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_315.png,"['red blood cell\n', 'ring\n', 'trophozoite\n', 'difficult\n', 'leukocyte']",1,1,0,1,1,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_316.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_317.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_318.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_319.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_32.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_321.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_324.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_325.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_326.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_328.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_329.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_33.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_331.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_332.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_334.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_335.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_336.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_339.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_340.png,"['red blood cell\n', 'schizont\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_341.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_342.png,"['red blood cell\n', 'leukocyte\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_343.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_344.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_345.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_346.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_347.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_348.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte\n', 'schizont']",1,0,0,1,0,1,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_349.png,"['red blood cell\n', 'leukocyte']",1,0,0,0,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_35.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_351.png,"['red blood cell\n', 'ring\n', 'leukocyte\n', 'difficult\n', 'trophozoite\n', 'gametocyte']",1,1,1,1,1,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_354.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_355.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_356.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_357.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_358.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_36.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_360.png,"['red blood cell\n', 'trophozoite\n', 'schizont\n', 'difficult']",1,1,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_361.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_362.png,"['red blood cell\n', 'gametocyte\n', 'trophozoite']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_363.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_364.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_365.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_367.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_368.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_369.png,"['red blood cell\n', 'gametocyte\n', 'trophozoite']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_37.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_370.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_371.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_373.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_376.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_377.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_379.png,"['schizont\n', 'red blood cell']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_38.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte\n', 'difficult']",1,1,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_381.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_382.png,"['red blood cell\n', 'gametocyte\n', 'difficult']",1,1,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_384.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_385.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_386.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_387.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_388.png,"['red blood cell\n', 'schizont\n', 'trophozoite']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_389.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_39.png,"['red blood cell\n', 'trophozoite\n', 'difficult\n', 'schizont']",1,1,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_391.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_394.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_396.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_398.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_399.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_40.png,"['red blood cell\n', 'schizont\n', 'difficult']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_400.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_401.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_402.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_404.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_407.png,"['difficult\n', 'leukocyte\n', 'red blood cell']",1,1,0,0,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_409.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_41.png,"['red blood cell\n', 'ring\n', 'gametocyte\n', 'difficult']",1,1,1,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_410.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_412.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_414.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_415.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_416.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_418.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_419.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_42.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_420.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_421.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_422.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_423.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_427.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_428.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_430.png,"['red blood cell\n', 'gametocyte\n', 'difficult']",1,1,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_431.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_432.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_433.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_435.png,"['red blood cell\n', 'schizont\n', 'trophozoite']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_437.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_439.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_440.png,"['red blood cell\n', 'gametocyte\n', 'trophozoite']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_441.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_442.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_443.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_445.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_446.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_448.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_449.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_45.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_452.png,"['red blood cell\n', 'gametocyte\n', 'trophozoite']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_454.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_456.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_457.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_460.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_461.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_464.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_465.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_466.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_467.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_468.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_469.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_47.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_471.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_473.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_474.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_475.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_477.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_478.png,"['trophozoite\n', 'red blood cell']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_479.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_480.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_481.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_482.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_484.png,"['red blood cell\n', 'gametocyte\n', 'leukocyte\n', 'trophozoite']",1,0,1,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_486.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_487.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_488.png,"['difficult\n', 'red blood cell\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_490.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_491.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_492.png,"['red blood cell\n', 'leukocyte']",1,0,0,0,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_494.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_495.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_496.png,"['red blood cell\n', 'difficult\n', 'trophozoite\n', 'ring']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_497.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_499.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_50.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_500.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_501.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_502.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_503.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_504.png,"['red blood cell\n', 'schizont\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_506.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_509.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_51.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_510.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_511.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_512.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_514.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_515.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_516.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_517.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_520.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_522.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_523.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_524.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_526.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_529.png,"['red blood cell\n', 'leukocyte\n', 'gametocyte\n', 'trophozoite\n', 'ring']",1,0,1,1,1,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_530.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_531.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_532.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_533.png,"['gametocyte\n', 'red blood cell']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_534.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_536.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_537.png,"['red blood cell\n', 'leukocyte\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_539.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_54.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_540.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_541.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_543.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_544.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_545.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_546.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_547.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_548.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_549.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_55.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_552.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_553.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_554.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_555.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_558.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_559.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_56.png,"['trophozoite\n', 'red blood cell\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_560.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_562.png,"['red blood cell\n', 'schizont\n', 'gametocyte']",1,0,1,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_564.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_565.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_566.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_567.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_568.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_569.png,"['red blood cell\n', 'ring\n', 'difficult\n', 'gametocyte\n', 'trophozoite']",1,1,1,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_57.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_570.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_571.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_572.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_573.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte\n', 'schizont']",1,0,0,1,0,1,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_574.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_575.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_576.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_577.png,"['red blood cell\n', 'trophozoite\n', 'difficult\n', 'schizont']",1,1,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_578.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_58.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_580.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_581.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_582.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_583.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_584.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_586.png,"['red blood cell\n', 'schizont\n', 'difficult']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_587.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_588.png,"['red blood cell\n', 'trophozoite\n', 'difficult\n', 'schizont']",1,1,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_589.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_59.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_590.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_591.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_592.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_593.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_595.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_596.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_597.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_598.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_599.png,"['red blood cell\n', 'difficult\n', 'trophozoite\n', 'ring']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_6.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_60.png,"['red blood cell\n', 'trophozoite\n', 'ring\n', 'difficult']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_600.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_601.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_602.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_604.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_605.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_607.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_608.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_609.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_61.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_610.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_611.png,"['red blood cell\n', 'difficult\n', 'trophozoite\n', 'ring']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_612.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_613.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_614.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_615.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_616.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_617.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_618.png,"['red blood cell\n', 'difficult\n', 'leukocyte\n', 'trophozoite']",1,1,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_620.png,"['red blood cell\n', 'trophozoite\n', 'difficult\n', 'ring\n', 'gametocyte']",1,1,1,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_621.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_622.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_623.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_624.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_625.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_627.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_63.png,"['red blood cell\n', 'schizont\n', 'difficult']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_630.png,"['red blood cell\n', 'difficult\n', 'gametocyte\n', 'trophozoite']",1,1,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_634.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_635.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_636.png,"['red blood cell\n', 'gametocyte\n', 'trophozoite']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_637.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_638.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_639.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_640.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_641.png,"['red blood cell\n', 'difficult\n', 'gametocyte\n', 'trophozoite']",1,1,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_642.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_643.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte\n', 'leukocyte']",1,0,1,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_644.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_645.png,"['red blood cell\n', 'trophozoite\n', 'ring\n', 'difficult']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_646.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_648.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_649.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_65.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_650.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_651.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_652.png,"['red blood cell\n', 'schizont\n', 'trophozoite']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_654.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_655.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_656.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_657.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_658.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_659.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_66.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_662.png,"['red blood cell\n', 'schizont\n', 'trophozoite']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_663.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_664.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_666.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_667.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_669.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_670.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_671.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_672.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_675.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_678.png,"['red blood cell\n', 'schizont\n', 'difficult']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_679.png,"['red blood cell\n', 'schizont\n', 'difficult']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_68.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_680.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_681.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_683.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_685.png,"['red blood cell\n', 'difficult\n', 'trophozoite\n', 'leukocyte']",1,1,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_688.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_689.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_69.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_690.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_691.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_693.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_695.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_697.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_698.png,"['red blood cell\n', 'schizont\n', 'difficult']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_7.png,"['red blood cell\n', 'schizont\n', 'difficult']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_70.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_701.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_702.png,"['red blood cell\n', 'schizont\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_703.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_705.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_706.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_707.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_708.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_709.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_71.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_710.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_711.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_712.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_713.png,"['red blood cell\n', 'difficult\n', 'gametocyte']",1,1,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_718.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_720.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_721.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_722.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_723.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_724.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_725.png,"['red blood cell\n', 'ring\n', 'schizont\n', 'trophozoite']",1,0,0,1,1,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_726.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_727.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_729.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_73.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_730.png,"['red blood cell\n', 'difficult\n', 'trophozoite\n', 'ring']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_731.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_732.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_733.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_735.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_737.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_738.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_739.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_74.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_740.png,"['red blood cell\n', 'ring\n', 'trophozoite\n', 'difficult']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_742.png,"['red blood cell\n', 'gametocyte\n', 'trophozoite']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_743.png,"['red blood cell\n', 'ring\n', 'gametocyte\n', 'trophozoite']",1,0,1,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_744.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_745.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_746.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_748.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_749.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_75.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_751.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_752.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_753.png,"['red blood cell\n', 'trophozoite\n', 'difficult\n', 'ring\n', 'gametocyte']",1,1,1,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_755.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_756.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_759.png,"['red blood cell\n', 'difficult\n', 'ring\n', 'schizont\n', 'trophozoite']",1,1,0,1,1,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_76.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_760.png,"['red blood cell\n', 'leukocyte']",1,0,0,0,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_761.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_762.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_763.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_765.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_768.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_77.png,"['red blood cell\n', 'gametocyte\n', 'trophozoite']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_770.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_771.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_772.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_773.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_774.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_775.png,"['red blood cell\n', 'difficult\n', 'trophozoite\n', 'gametocyte']",1,1,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_777.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_778.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_779.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_78.png,"['red blood cell\n', 'ring\n', 'trophozoite']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_782.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite\n', 'difficult\n', 'gametocyte']",1,1,1,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_783.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_784.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_785.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_786.png,"['red blood cell\n', 'difficult\n', 'gametocyte']",1,1,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_787.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_789.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_790.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_792.png,"['red blood cell\n', 'schizont\n', 'trophozoite']",1,0,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_793.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_795.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_796.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_799.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_8.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_80.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_800.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte\n', 'difficult']",1,1,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_801.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_802.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_803.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte\n', 'difficult']",1,1,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_804.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_807.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_809.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_81.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_810.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_811.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_813.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_815.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_817.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_819.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_820.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_822.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_823.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_824.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_825.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_826.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_827.png,"['red blood cell\n', 'gametocyte\n', 'trophozoite']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_828.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_83.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_830.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte\n', 'difficult']",1,1,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_831.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_834.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_835.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_836.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_837.png,"['red blood cell\n', 'gametocyte\n', 'difficult']",1,1,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_838.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_839.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_84.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_840.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_841.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_842.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_843.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_845.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte\n', 'difficult']",1,1,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_846.png,"['red blood cell\n', 'gametocyte\n', 'difficult']",1,1,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_850.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_853.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_854.png,"['red blood cell\n', 'schizont\n', 'gametocyte\n', 'difficult']",1,1,1,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_855.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_857.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_858.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_859.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_860.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_862.png,"['red blood cell\n', 'schizont\n', 'leukocyte\n', 'difficult']",1,1,0,0,0,1,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_864.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_865.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_867.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_868.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_869.png,"['red blood cell\n', 'difficult\n', 'gametocyte\n', 'trophozoite']",1,1,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_870.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_871.png,"['red blood cell\n', 'gametocyte\n', 'trophozoite\n', 'difficult']",1,1,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_873.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_874.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_878.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_879.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_880.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_881.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_883.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_885.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_886.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_887.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_888.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_89.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_890.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_891.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_892.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_895.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_896.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_898.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_899.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_901.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_903.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_904.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_906.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_908.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_909.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_91.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_910.png,"['red blood cell\n', 'ring\n', 'schizont']",1,0,0,0,1,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_912.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_914.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_915.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_916.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_917.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_918.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_921.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_922.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_926.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_928.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_93.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_931.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_932.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte\n', 'difficult']",1,1,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_933.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_934.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_935.png,"['red blood cell\n', 'schizont\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_936.png,"['red blood cell\n', 'gametocyte\n', 'trophozoite']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_937.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_938.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_939.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_94.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_940.png,"['red blood cell\n', 'trophozoite\n', 'difficult\n', 'ring']",1,1,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_941.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_944.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_945.png,"['red blood cell\n', 'leukocyte']",1,0,0,0,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_947.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_948.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_949.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte']",1,0,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_950.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_951.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_952.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_954.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_955.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_956.png,"['red blood cell\n', 'difficult\n', 'schizont\n', 'trophozoite']",1,1,0,1,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_958.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_959.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_96.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_960.png,"['red blood cell\n', 'schizont\n', 'difficult']",1,1,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_961.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_962.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_963.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte\n', 'difficult']",1,1,1,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_964.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_967.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_968.png,"['red blood cell\n', 'trophozoite\n', 'ring']",1,0,0,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_969.png,"['red blood cell\n', 'gametocyte']",1,0,1,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_97.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_971.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_972.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_973.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_974.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_975.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_976.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_977.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_978.png,"['red blood cell\n', 'gametocyte\n', 'ring']",1,0,1,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_979.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_98.png,"['red blood cell\n', 'trophozoite\n', 'leukocyte']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_980.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_982.png,"['red blood cell\n', 'difficult']",1,1,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_984.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_987.png,"['red blood cell\n', 'leukocyte\n', 'trophozoite']",1,0,0,1,0,0,1
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_988.png,"['red blood cell\n', 'schizont']",1,0,0,0,0,1,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_989.png,"['red blood cell\n', 'ring']",1,0,0,0,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_99.png,"['red blood cell\n', 'trophozoite\n', 'gametocyte\n', 'ring']",1,0,1,1,1,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_990.png,['red blood cell'],1,0,0,0,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_992.png,"['red blood cell\n', 'trophozoite']",1,0,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_993.png,"['red blood cell\n', 'difficult\n', 'trophozoite']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_994.png,"['red blood cell\n', 'trophozoite\n', 'difficult']",1,1,0,1,0,0,0
+/home/ubuntu/Desktop-Sync-Folder/Exam2/train/pics/cells_998.png,['red blood cell'],1,0,0,0,0,0,0
